@@ -22,4 +22,6 @@ To begin with, I decided that the main grid layout of the page, the one to keep 
 
 </main>
 ```
-As we can see, the top of the structure is the screen of class `.user__input`. This captures the input of the user made by pressing on the buttons. The latter is denoted by the `.user__buttons` class, and the rest of the buttons, under class `.misc__input` are meant for other miscellanous operators. This calculator is simple, and I decided to forgo complex functions as such logartihms, trigonometry, and the like.  
+As we can see, the top of the structure is the screen of class `.user__input`. This captures the input of the user made by pressing on the buttons. The latter is denoted by the `.user__buttons` class in which it houses `.buttons__selection`. The rest of the buttons under class `.misc__input` are meant for other miscellanous operators. What holds all the buttons together is the `.main__calulator` class. This calculator is simple, and I decided to forgo complex functions as such logartihms, trigonometry, and the like. 
+
+### 2. CSS
