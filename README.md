@@ -130,4 +130,4 @@ It is important to note here that the `boxes` variable is a container for all bu
 ## Showcase
 
 ### Portrait Mode
-![alt text](../../proj_images/calculator_app.png "Portrait Mode")
+![ScreenShot](../../proj_images/calculator_app.png "Portrait Mode")
