@@ -8,7 +8,7 @@ const delete_btn = document.getElementById("delete");
 
 boxes.forEach((element)=>{
   element.addEventListener("click", ()=>{
-    new Audio("click_sound.mp3").play();
+    new Audio("sounds/click_sound.mp3").play();
   });
 });
 
