@@ -1,0 +1,23 @@
+{
+  "name": "Awesome Calculator",
+  "description": "A calculator web-application",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "rgb(0, 0, 0)",
+  "theme-color": "rgb(0, 0, 0)",
+  "icons": [
+    {
+      "src": "./images/pi_symbol.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src":"./images/pi_symbol.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
