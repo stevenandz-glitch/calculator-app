@@ -133,9 +133,5 @@ It is important to note here that the `boxes` variable is a container for all bu
 ![Portrait Mode](images/calculator_app.png)
 
 ### Landscape Mode
-<<<<<<< HEAD
 ![Landscape Mode](images/calculator_app_landscape.png)
-=======
 
-<img width="821" height="505" alt="calculator_landscape" src="https://github.com/user-attachments/assets/9441723a-7d71-41b8-b123-5b0e54240551" />
->>>>>>> refs/remotes/origin/main
