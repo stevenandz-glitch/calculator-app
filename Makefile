@@ -24,7 +24,7 @@ deploy:
 	@echo "Deploying into android phone"
 	make build
 	make run
-	adb reverse tcp:1600 tcp:1600
+	adb reverse tcp:1200 tcp:1200
 	adb shell am start \
 		-a android.intent.action.VIEW \
-		-d http://localhost:1600
+		-d http://localhost:1200
