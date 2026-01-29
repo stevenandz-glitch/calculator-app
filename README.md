@@ -130,12 +130,22 @@ It is important to note here that the `boxes` variable is a container for all bu
 ## Showcase
 
 ### Portrait Mode
-![Portrait Mode](images/calculator_app.png)
+![Portrait Mode](./images/calculator_app.png)
 
 ### Landscape Mode
-![Landscape Mode](images/calculator_app_landscape.png)
+![Landscape Mode](./images/calculator_app_landscape.png)
 
-## Additional Resources
+## How To Use \***ANDROID ONLY**\*
+# In Your Terminal
+1. `git clone https://github.com/stevenandz-glitch/calculator-app.git`
+
+# Connect your android phone to your laptop for TCP connection
+2. `make deploy`
+This command builds the server, and connects your phone via TCP which allows you to view
+the application. You will know that it worked once your phone asks where to open the application.
+Happy calculating!
+
+## Resources
 ### 1. Coolers (color palette): https://coolors.co/
 ### 2. Pixaby (sound effects): https://pixabay.com/sound-effects/
 
