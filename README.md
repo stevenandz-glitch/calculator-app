@@ -1,4 +1,4 @@
-## Features
+# Features
 - Responsive calculator UI (portrait & landscape)
 - Grid-based button layout
 - Keyboard-style input logic
