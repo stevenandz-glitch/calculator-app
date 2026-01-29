@@ -137,10 +137,10 @@ It is important to note here that the `boxes` variable is a container for all bu
 
 ## How To Use \***ANDROID ONLY**\*
 ### 1. In Your Terminal...
-1. `git clone https://github.com/stevenandz-glitch/calculator-app.git`
+`git clone https://github.com/stevenandz-glitch/calculator-app.git`
 
-### Connect Android Phone to Laptop By USB...
-2. `make deploy`
+### 2. Connect Android Phone to Laptop By USB...
+`make deploy` \
 This command builds the server, and connects your phone via TCP which allows you to view
 the application. You will know that it worked once your phone asks where to open the application.
 Happy calculating!
