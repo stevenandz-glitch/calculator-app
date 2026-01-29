@@ -1,3 +1,9 @@
+## Features
+- Responsive calculator UI (portrait & landscape)
+- Grid-based button layout
+- Keyboard-style input logic
+- Mobile-friendly deployment (Android)
+
 # Calulator Web Application 
 This is a web application coded in HTML, CSS, and Javascript in which it is a simple calculator program with a graphical user interface. For this project, I wanted to combine all of the World Wide Web languages into something I am proud of, and there is no better start than the simplest tool for mankind...a number cruncher. With regards to the front-end development, I wanted to test the `grid` and `flex` layouts in CSS as well as hone my element structure in HTML. In the back-end process,the goal was make the event listeners reponsive to user input, and practice DOM (Document Object Model) manipulation.
 
